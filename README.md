@@ -1,4 +1,4 @@
-# simple-bank-app
+# flutter-practice
 
 A new Flutter project.
 
